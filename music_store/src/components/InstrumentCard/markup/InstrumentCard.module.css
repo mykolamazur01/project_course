@@ -1,0 +1,13 @@
+.instrumentCard{
+    border: 1px solid black;
+    padding: 10px;
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    row-gap: 5px;
+    border-radius: 25px;
+}
+.manufacturer_comnstainer{
+    display: flex;
+    flex-direction: row;
+}
